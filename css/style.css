@@ -1128,6 +1128,12 @@ body.offcanvas {
       -ms-border-radius: 7px;
       border-radius: 7px; }
       @media screen and (max-width: 768px) {
+        .col-md-4 {
+          width: 50%;
+      }
+      .col-md-6 {
+        width: 100%;
+    }
         .colorlib-social li a {
           padding: 10px 8px; } }
       .colorlib-social li a:hover {
